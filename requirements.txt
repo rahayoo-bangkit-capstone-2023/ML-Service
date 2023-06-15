@@ -1,4 +1,4 @@
-random
+random2==1.0.1
 numpy
 json
 Flask
