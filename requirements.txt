@@ -3,7 +3,7 @@ pandas
 Flask
 keras
 tensorflow
-spacy==3.0.6
+spacy==3.4.4
 scikit-learn==0.24.2
 requests==2.23.0
 tensorflow
